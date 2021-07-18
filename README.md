@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Moran Chery
-- 👀 I’m interested in a Python or Java development job
 - 📫 How to reach me: chery@post.bgu.ac.il
 
 <!---
